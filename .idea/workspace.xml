@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36aaf68a-5ba6-456b-9097-9a42c83c1063" name="默认更改列表" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-api-common/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-gateway-gateway9527/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-center3344/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springCloud-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-api-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>configurationTypes</find>
+      <find>relativePath</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/yingzhitong/cloud/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/java/com/yingzhitong/alibaba/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/resources/application.yml.fxml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/yingzhitong/controller/OrderNacosController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/yingzhitong/alibaba/OrderMain83.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/yingzhitong/alibaba/OrderNacosMain83.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/java/com/yingzhitong/alibaba/controller/RestClientHelper.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/java/com/yingzhitong/alibaba/service/ElasticSearchService.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/java/com/yingzhitong/alibaba/esMain8022.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/java/com/yingzhitong/alibaba/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch/src/main/java/com/yingzhitong/alibaba/service/RestClientHelper.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/src/main/java/com/yingzhitong/albaba/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/yingzhitong/alibaba/controller/OrderNacosController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/src/main/java/com/yingzhitong/alibaba/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/yingzhitong/alibaba/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/yingzhitong/alibaba/NacosConfigClientMain3377.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/controller/Payment.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/mapper/PaymentMapper.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/RedisNacosMain6379.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-api-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-center3344/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-alibaba-config-nacos-redis6379" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625561975166" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2551724" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yingzhitong.nacos" />
+      <recent name="com.yingzhitong.alibaba" />
+      <recent name="com.yingzhitong.cloud.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目案例\springCloud-parent\cloud-alibaba-config-nacos-redis6379\src\main\resources" />
+      <recent name="D:\项目案例\springCloud-parent\cloud-alibaba-config-nacos-client3377\src\main\resources" />
+      <recent name="D:\项目案例\springCloud-parent\cloud-alibaba-elasticsearch\src\main\resources" />
+      <recent name="D:\项目案例\springCloud-parent\cloud-alibaba-consumer-nacos-order84\src\main\resources" />
+      <recent name="D:\项目案例\springCloud-parent\cloud-alibaba-provider-payment9002\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="payment/create" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="serial:1111" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.17857143" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RedisNacosMain6379">
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.EurekaServer7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.EurekaServer7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.GatewayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixPaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.HystrixPaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-config-nacos-client3377" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingzhitong.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.NacosConfigClientMain3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-consumer-nacos-order83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingzhitong.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-provider-payment9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingzhitong.albaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.albaba.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-provider-payment9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingzhitong.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.PaymentMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisNacosMain6379" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-alibaba-config-nacos-redis6379" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yingzhitong.nacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.nacos.RedisNacosMain6379" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="esMain8022" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-elasticsearch8022" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.esMain8022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RedisNacosMain6379" />
+        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+        <item itemvalue="Spring Boot.OrderNacosMain83" />
+        <item itemvalue="Spring Boot.PaymentMain9002" />
+        <item itemvalue="Spring Boot.PaymentMain9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36aaf68a-5ba6-456b-9097-9a42c83c1063" name="默认更改列表" comment="" />
+      <created>1586346489657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586346489657</updated>
+      <workItem from="1586346491148" duration="1926000" />
+      <workItem from="1586394475381" duration="1036000" />
+      <workItem from="1586397154448" duration="3936000" />
+      <workItem from="1586401433059" duration="771000" />
+      <workItem from="1586402212688" duration="5529000" />
+      <workItem from="1586497413132" duration="13628000" />
+      <workItem from="1586739741045" duration="5764000" />
+      <workItem from="1586746834119" duration="4681000" />
+      <workItem from="1586760833799" duration="12554000" />
+      <workItem from="1586826526506" duration="16989000" />
+      <workItem from="1586913094852" duration="1421000" />
+      <workItem from="1586936851306" duration="9338000" />
+      <workItem from="1586949004262" duration="3494000" />
+      <workItem from="1587037861726" duration="484000" />
+      <workItem from="1587175057257" duration="6863000" />
+      <workItem from="1587191443988" duration="10773000" />
+      <workItem from="1587345116502" duration="4736000" />
+      <workItem from="1587518231360" duration="15167000" />
+      <workItem from="1587714572432" duration="1200000" />
+      <workItem from="1587863636905" duration="214000" />
+      <workItem from="1588926792616" duration="597000" />
+      <workItem from="1592290772108" duration="908000" />
+      <workItem from="1593328087269" duration="837000" />
+      <workItem from="1593328956120" duration="6187000" />
+      <workItem from="1594175372349" duration="4630000" />
+      <workItem from="1594180030041" duration="398000" />
+      <workItem from="1594180438431" duration="6007000" />
+      <workItem from="1594371805436" duration="84000" />
+      <workItem from="1594698119333" duration="858000" />
+      <workItem from="1594706473898" duration="9506000" />
+      <workItem from="1594778494416" duration="13186000" />
+      <workItem from="1594886161265" duration="600000" />
+      <workItem from="1594891251324" duration="641000" />
+      <workItem from="1595475001811" duration="437000" />
+      <workItem from="1595817442071" duration="11697000" />
+      <workItem from="1595921890454" duration="4776000" />
+      <workItem from="1596008005917" duration="716000" />
+      <workItem from="1596012631143" duration="772000" />
+      <workItem from="1596074100929" duration="10499000" />
+      <workItem from="1596101851419" duration="927000" />
+      <workItem from="1596513066326" duration="12161000" />
+      <workItem from="1597110557444" duration="622000" />
+      <workItem from="1614064004601" duration="65000" />
+      <workItem from="1614137943650" duration="2973000" />
+      <workItem from="1614149052728" duration="306000" />
+      <workItem from="1615885410128" duration="1074000" />
+      <workItem from="1624935564207" duration="81000" />
+      <workItem from="1624937083588" duration="167000" />
+      <workItem from="1624937256516" duration="771000" />
+      <workItem from="1624938248466" duration="1824000" />
+      <workItem from="1625561301780" duration="43000" />
+      <workItem from="1625561701056" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215130000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946293" visible="true" weight="0.29104477" />
+      <window_info id="Structure" order="1" sideWeight="0.50053704" side_tool="true" weight="0.1748401" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50053704" side_tool="true" weight="0.1748401" />
+      <window_info id="设计器" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50053704" side_tool="true" weight="0.1748401" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29166666" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25886145" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.21052632" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32975295" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.36627284" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="调试" order="13" sideWeight="0.49946696" weight="0.36627284" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32975295" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32975295" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.32975295" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.32975295" />
+      <window_info anchor="bottom" id="Run Dashboard" order="18" weight="0.37061402" />
+      <window_info anchor="bottom" id="MyBatis Log" order="19" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.52558637" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Codota" order="11" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.3.RELEASE/spring-data-redis-2.2.3.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.3.RELEASE/spring-data-redis-2.2.3.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class" />
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/yingzhitong/cloud/mapper/PaymentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" />
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/mapper/PaymentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/yingzhitong/alibaba/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/java/com/yingzhitong/alibaba/NacosConfigClientMain3377.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/RedisNacosMain6379.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.3.RELEASE/spring-data-redis-2.2.3.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.2/mybatis-plus-extension-3.1.2.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.2/mybatis-plus-extension-3.1.2.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="250" column="13" selection-start-line="250" selection-start-column="13" selection-end-line="250" selection-end-column="13" />
+          <folding>
+            <element signature="e#9229#9230#0" expanded="true" />
+            <element signature="e#9282#9283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar!/org/springframework/util/ReflectionUtils.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/hash/BloomFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/java/com/yingzhitong/nacos/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar!/com/fasterxml/jackson/databind/ObjectMapper.class" />
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/java/com/yingzhitong/alibaba/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/java/com/yingzhitong/alibaba/service/RestClientHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/java/com/yingzhitong/alibaba/service/ElasticSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/yingzhitong/cloud/EurekaServer7001.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/src/main/java/com/yingzhitong/alibaba/esMain8022.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-api-common/src/main/java/com/yingzhitong/cloud/common/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-api-common/src/main/java/com/yingzhitong/cloud/common/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-provider-payment9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-provider-payment9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-consumer-order80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-config-center3344/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server7002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-api-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|cloud-config-center3344</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

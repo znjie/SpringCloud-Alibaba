@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.yingzhitong.cloud.mapper.PaymentMapper">
+    <resultMap id="paymentResultMap" type="com.yingzhitong.cloud.common.Payment">
+        <id column="id" property="id" jdbcType="BIGINT"></id>
+        <id column="serial" property="serial" jdbcType="VARCHAR"></id>
+    </resultMap>
+
+    <insert id="create" parameterType="com.yingzhitong.cloud.common.Payment" useGeneratedKeys="true" keyProperty="id">
+        insert into payment(serial) values (#{serial});
+    </insert>
+    <select id="getPaymentById" parameterType="Long" resultMap="paymentResultMap">
+        select * from payment where id = #{id}
+    </select>
+</mapper>
