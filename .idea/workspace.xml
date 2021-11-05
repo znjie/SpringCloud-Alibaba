@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36aaf68a-5ba6-456b-9097-9a42c83c1063" name="默认更改列表" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-api-common/target/" />
-    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
-    <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-eureka-server7001/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-eureka-server7002/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-provider-payment8002/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-order80/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-gateway-gateway9527/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-config-center3344/target/" />
-    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/" />
-    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9002/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order84/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-elasticsearch/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/target/" />
-    <ignored path="$PROJECT_DIR$/cloud-alibaba-elasticsearch8022/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="36aaf68a-5ba6-456b-9097-9a42c83c1063" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,30 +35,6 @@
   <component name="FavoritesManager">
     <favorites_list name="springCloud-parent" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis6379/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-api-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -93,6 +49,9 @@
       <find>configurationTypes</find>
       <find>relativePath</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,13 +113,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.5.2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/maven/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\tools\maven\apache-maven-3.8.2\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -178,6 +133,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectId" id="1y4b0kNobRBvTvbBxySNl5AcIFb" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -210,23 +166,34 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625561975166" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2551724" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -275,19 +242,26 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-    <option name="contentProportion" value="0.17857143" />
   </component>
   <component name="RunManager" selected="Spring Boot.RedisNacosMain6379">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-center3344" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.cloud.ConfigCenterMain3344" />
@@ -391,6 +365,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentMain9001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.albaba.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-alibaba-provider-payment9001" />
       <extension name="coverage">
@@ -400,6 +381,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.albaba.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9002 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.PaymentMain9002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -417,6 +405,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RedisNacosMain6379 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-config-nacos-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.nacos.RedisNacosMain6379" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RedisNacosMain6379" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-alibaba-config-nacos-redis6379" />
       <extension name="coverage">
@@ -426,6 +421,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.nacos.RedisNacosMain6379" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="esMain8022 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-alibaba-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yingzhitong.alibaba.esMain8022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -447,6 +449,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -509,6 +512,10 @@
       <workItem from="1624938248466" duration="1824000" />
       <workItem from="1625561301780" duration="43000" />
       <workItem from="1625561701056" duration="276000" />
+      <workItem from="1631513588599" duration="1084000" />
+      <workItem from="1631515066971" duration="758000" />
+      <workItem from="1631518888815" duration="3573000" />
+      <workItem from="1633935302607" duration="5996000" />
     </task>
     <servers />
   </component>
@@ -571,7 +578,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-redis/pom.xml" />
